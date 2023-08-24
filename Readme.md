@@ -4,8 +4,9 @@
 
 <p align=center>This project is a backend using typescript, typeORM and PostgresQL.</p>
 
-> Project status: Completed :heavy_check_mark:
+![Captura de tela de 2023-08-24 12-56-24](https://github.com/Icegreeen/class-api/assets/56550632/9de13e5c-e673-4ef4-bb2f-e39a61f6efc3)
 
+> Project status: Completed :heavy_check_mark:
                       
 # :pushpin: Table of Contents
 

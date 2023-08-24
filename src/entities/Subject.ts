@@ -17,7 +17,7 @@ export class Subject {
             referencedColumnName: 'id'
         },
         inverseJoinColumn: {
-            name: 'subject_id',
+            name: 'subjects_id',
             referencedColumnName: 'id'
         }
     })
